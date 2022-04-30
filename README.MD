@@ -2,6 +2,14 @@
 
 Este é uma espécie de projeto "vazio" onde criei o FrontEnd e o BackEnd, deixando a comunicação totalmente funcional.
 
+
+
+faça um clone do projeto
+
+no seu terminal execute npm install
+
+e aproveite!!
+
 ## FrontEnd - REACTJS
 
 O frontEnd está desenvolvido em React, a comunicação com o BackEnd foi feita em axios, criei 1 página sem formatação, apenas com UseState e UseEffect para a API ser consumida e um modelo de componente em forma de botão, com 2 props para simular o funcionamento das mesmas.
