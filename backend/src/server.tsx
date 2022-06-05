@@ -4,7 +4,6 @@ import { router } from "./routes/Index";
 
 const app = express();
 
-app.use(express.json());
 app.use(cors());
 app.use(express.json());
 app.use(router);
